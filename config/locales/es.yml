@@ -15,6 +15,7 @@ es:
     new_category: Nueva Categoría
   common:
     back: Atras
+    log_out: Cerrar Sesión
   hello: Hello world
   tasks:
     form:
